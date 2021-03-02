@@ -8,5 +8,5 @@ describe('bstNode', () => {
     expect(node.data).toEqual(36);
     expect(node.left).toEqual(null);
     expect(node.right).toEqual(null);
-  })
-})
+  });
+});
